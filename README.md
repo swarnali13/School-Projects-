@@ -27,5 +27,4 @@ This project was developed as part of a school assignment to demonstrate how Pyt
 - Secure handling of user data and input validation
 - Structuring a CLI-based application
 
-## 📁 Project Structure
 
