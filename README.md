@@ -24,7 +24,6 @@ This project was developed as part of a school assignment to demonstrate how Pyt
 
 - Basic SQL operations (SELECT, INSERT, UPDATE)
 - Connecting Python with MySQL using `mysql-connector-python`
-- Secure handling of user data and input validation
-- Structuring a CLI-based application
+- Integration of structured query language with python
 
 
